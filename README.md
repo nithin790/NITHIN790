@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm NITHIN</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coder">
 
 <p align="left"> <img src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d" alt="coder" /> </p>
 

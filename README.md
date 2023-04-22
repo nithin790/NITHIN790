@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/nithin790"><img src="https://github-profile-trophy.vercel.app/?username=nithin790" alt="nithin790" /></a> </p>
 
-- 🔭 I’m currently working on **Data visualization by tensor flow**
+- 🔭 I’m currently working on **Dashboards**
 
-- 🌱 I’m currently learning **python frame works**
+- 🌱 I’m currently learning **google data analytics certification**
 
-- 💬 Ask me about **react and node.js**
+- 💬 Ask me about **excel,sql,power BI,Big query and python**
 
 - 📫 How to reach me **reddynithhin957@gmail.com**
 

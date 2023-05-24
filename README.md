@@ -13,7 +13,6 @@
 
 
 
-- 🔭 I’m currently working on Big Data Fundamentals
 
 - 🌱 I’m currently learning **Advance data analyst**
 

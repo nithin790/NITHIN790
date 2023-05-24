@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Ranamalla</h1>
-<h3 align="center">A passionate frontend developer and data analyst Enthusiast</h3>
+<h3 align="center">A passionate frontend developer and  google certified data analyst  </h3>
 
 <p align="center"> 
   <img src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d" alt="coder" width="300" />
@@ -13,13 +13,11 @@
 
 
 
-- 🔭 I’m currently working on [BikeStoresAnalysis](https://github.com/nithin790/BikeStoresAnalysis)
+- 🔭 I’m currently working on Big Data Fundamentals
 
 - 🌱 I’m currently learning **Advance data analyst**
 
 - 👯 I’m looking to collaborate on [Tableau-DashBoards](https://github.com/nithin790/Tableau-Dashboards)
-
-- 🤝 I’m looking for help with [Home management-Flask](https://github.com/nithin790/HOME-TASK-MANAGEMNET---Flask)
 
 - 👨‍💻 All of my projects are available at [https://nithin-ranamalla.netlify.app/](https://nithin-ranamalla.netlify.app/)
 

@@ -24,7 +24,8 @@
 
 - 📫 How to reach me **reddynithin957@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FdcuuCrQTImICGt7Ci15pLWBmdCUCtHE/view](https://drive.google.com/file/d/1FdcuuCrQTImICGt7Ci15pLWBmdCUCtHE/view)
+- 📄 Know about my experiences 
+- https://drive.google.com/file/d/1MUNmyam_8FP7I8W_7p3RfIlNyWYqanw7/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
